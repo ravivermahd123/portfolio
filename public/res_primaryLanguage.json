@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Ravi Verma. A curious learner and creative team player with knowledge of languages and development tools, seeking a position in a growth-oriented company where I can utilise my understanding of coding and software development to eﬃciently fulﬁl the requirements of the company.",
+      "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Demo Project",
+      "startDate": "2022",
+      "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+      "images": [
+        "images/p1.jpg",
+        "images/p2.jpeg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "javaScript"
+        }
+      ]
+    },
+    {
+      "title": "Demo Project 2",
+      "startDate": "2022",
+      "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+      "images": [
+        "images/p3.jpg",
+        "images/p4.jpeg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Demo Project 3",
+      "startDate": "2022",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in React framework. I've learned a lot!",
+      "images": [
+        "images/p5.png",
+        "images/p6.jpeg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "javaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Anaxee Digital",
+      "title": "Front-end Developer",
+      "years": "06.2022 - present",
+      "mainTech": [
+        "React",
+        "Redux"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "Material UI"
+      ]
+    },
+    {
+      "company": "XYZ Company",
+      "title": "Web Developer",
+      "years": "06.2022 - present",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "Material UI"
+      ]
+    }
+  ]
+}

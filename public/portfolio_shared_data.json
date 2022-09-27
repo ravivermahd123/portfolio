@@ -1,0 +1,96 @@
+{
+    "basic_info": {
+      "name": "Ravi Verma",
+      "titles": [ "Front-end Developer", "Front-end Developer","Front-end Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/ravivermahd123",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "70"
+        },
+      
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "70"
+        },
+        {
+          "name": "Material UI",
+          "class": "devicon-materialui-plain",
+          "level": "70"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "70"
+        },
+
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "70"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "70"
+        },
+        
+        {
+          "name": "VS Code",
+          "class": "devicon-visualstudio-plain",
+          "level": "70"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "70"
+        },
+        {
+          "name": "Ubuntu",
+          "class": "devicon-ubuntu-plain",
+          "level": "70"
+        }
+      ]
+    }
+  }
