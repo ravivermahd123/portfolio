@@ -11,14 +11,14 @@
   },
   "projects": [
     {
-      "title": "Demo Project",
+      "title": "Starbucks ",
       "startDate": "2022",
-      "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+      "description": "Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington.",
       "images": [
         "images/p1.jpg",
         "images/p2.jpeg"
       ],
-      "url": "",
+      "url": "https://coffeee-ten.vercel.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -33,12 +33,12 @@
     {
       "title": "Demo Project 2",
       "startDate": "2022",
-      "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+      "description": "GUI for building forms with validation. ... Builder. Build your form with code and example. Layout !You can start adding fields with Input Creator.",
       "images": [
         "images/p3.jpg",
         "images/p4.jpeg"
       ],
-      "url": "https://github.com",
+      "url": "https://ravivermahd123.github.io/form-Builder/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -58,7 +58,7 @@
         "images/p5.png",
         "images/p6.jpeg"
       ],
-      "url": "https://github.com",
+      "url": "https://coffeee-ten.vercel.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -75,7 +75,7 @@
     {
       "company": "Anaxee Digital",
       "title": "Front-end Developer",
-      "years": "06.2022 - present",
+      "years": "06/2022 - 08/2022",
       "mainTech": [
         "React",
         "Redux"
@@ -89,9 +89,9 @@
       ]
     },
     {
-      "company": "XYZ Company",
-      "title": "Web Developer",
-      "years": "06.2022 - present",
+      "company": "iWebSoul ",
+      "title": "Front-end Developer",
+      "years": "08/2022 - present",
       "mainTech": [
         "React"
       ],
